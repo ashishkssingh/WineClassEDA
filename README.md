@@ -1,4 +1,4 @@
-# **Wine Class EDA**
+# **Exploratory Data Analysis - Wine Class Datatset**
 Day 2 of 100 Days of Exploratory Data Analysis
 
 ## **Content**
