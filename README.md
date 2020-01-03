@@ -25,6 +25,4 @@ This data set is the result of a chemical analysis of wines grown in the same re
 
 ## **Target**
 
-- Class 1 - 59 instances
-- Class 2 - 71 instances
-- Class 3 - 48 instances
+- Classes
